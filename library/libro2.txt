@@ -1,0 +1,4 @@
+id: 2
+titulo: la guerra de dos mundos
+autor: herbert george wells
+categoria: ficcion
